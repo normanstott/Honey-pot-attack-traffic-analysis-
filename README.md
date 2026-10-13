@@ -1,1 +1,2 @@
 # Honey-pot-attack-traffic-analysis-
+This report analyzes 31 days of connection logs from a single honeypot, a decoy server that accepts SSH and Telnet logins so that automated attackers reveal what they try. I turned roughly 483,000 log events into a four-page Power BI dashboard built around four questions: when activity happens, where it comes from, how sources compare with each other, and what attackers do once they get in. I did not set out to judge the sensor or its security. The aim was to find meaningful trends and to show how I got to them.
