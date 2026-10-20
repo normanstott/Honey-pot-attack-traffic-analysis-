@@ -1,0 +1,18 @@
+# Raw logs and Power BI files contain full IP addresses. Never commit them.
+*.pbix
+*.pbit
+*.json
+*.json.*
+*.gz
+*.tar.gz
+*.tgz
+data/
+raw/
+extracted/
+cowrie_json_only/
+ 
+# Local clutter
+.DS_Store
+Thumbs.db
+~$*
+ 
